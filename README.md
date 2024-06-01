@@ -5,7 +5,7 @@
 
 
 ## Puedes ver mi portafolio aqui 💻
-https://paulandrade.netlify.app/
+https://paulandrade.vercel.app/
 
 
 ## Sobre mí 🧑‍💻
