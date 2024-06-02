@@ -17,8 +17,8 @@ https://paulandrade.netlify.app/
 
 ## Mis habilidades 🚀
 
-- **Diseño Web:** Utilizo herramientas como HTML, CSS, y frameworks como Bootstrap y Tailwind CSS para crear interfaces intuitivas y atractivas.
-- **JavaScript:** Tengo un sólido dominio de JavaScript, tanto en el frontend como en el backend utilizando tecnologías como Node.js y Express.js.
+- **Diseño Web:** Utilizo herramientas como HTML, CSS, y frameworks como Astro y Tailwind CSS para crear interfaces intuitivas y atractivas.
+- **JavaScript:** Tengo un cierto dominio de JavaScript, tanto en el frontend como en el backend utilizando tecnologías como Node.js y Express.js.
 - **Desarrollo de Servidores:** He trabajado en el desarrollo de servidores utilizando Node.js y otras tecnologías, creando APIs robustas y escalables para aplicaciones web.
 - **Bases de Datos:** Tengo experiencia en el diseño y la implementación de bases de datos relacionales y no relacionales, incluyendo MySQL, MongoDB, y Firebase.
 - **Control de Versiones:** Soy competente en el uso de sistemas de control de versiones como Git, lo que me permite colaborar de manera efectiva en proyectos de equipo.
@@ -32,6 +32,8 @@ Aquí hay algunos de mis proyectos destacados:
 
 ## Contacto 📫
 
-¡Me encantaría conectar contigo! Puedes contactarme en santiago.x4444@icloud.com
+¡Me encantaría conectar contigo! Puedes contactarme en 
+✉️ santiago.x4444@icloud.com
+📱+57 3175218826
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos. 😊
