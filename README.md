@@ -1,39 +1,45 @@
-# ¡Hola a todos! 👋
+<h1 align="left">Hey, que tal!</h1>
 
-¡Bienvenidos a mi perfil de GitHub! Soy Paul Andrade, un apasionado del diseño web y un entusiasta del desarrollo con JavaScript. Este repositorio es un vistazo a mi trabajo y mi experiencia en el mundo del desarrollo web y de servidores.
+###
 
+<p align="left">Mi nombre es Paul Andrade y soy un programador junior con mucha motivación y constancia.<br><br>Enfocado en mi startup y mi crecimiento como persona y programador</p>
 
+###
 
-## Puedes ver mi portafolio aqui 💻
-https://paulandrade.netlify.app/
+<h2 align="left">About me</h2>
 
+###
 
-## Sobre mí 🧑‍💻
+<p align="left">✨ Joven enfocado en desarrollo web y de apps<br>📚 En constante aprendizaje<br>🎯 Directos de proyectos<br>💪 Esforzandome diariamente</p>
 
-- Soy un joven profesional dedicado al diseño web y al desarrollo de aplicaciones web.
-- Con más de 4 años de experiencia en el campo, he tenido la oportunidad de trabajar en diversos proyectos desafiantes que han mejorado mis habilidades y mi comprensión del desarrollo web.
-- Me especializo en la creación de experiencias web atractivas y funcionales, combinando un diseño estético con un código limpio y eficiente.
-- Mi pasión por el aprendizaje me ha llevado a completar una variedad de cursos, incluyendo algunos en el Servicio Nacional de Aprendizaje (SENA), que han ampliado mi conocimiento y habilidades en el campo del diseño web y manejo de proyectos.
+###
 
-## Mis habilidades 🚀
+<h2 align="left">Yo programo en</h2>
 
-- **Diseño Web:** Utilizo herramientas como HTML, CSS, y frameworks como Astro y Tailwind CSS para crear interfaces intuitivas y atractivas.
-- **JavaScript:** Tengo un cierto dominio de JavaScript, tanto en el frontend como en el backend utilizando tecnologías como Node.js y Express.js.
-- **Desarrollo de Servidores:** He trabajado en el desarrollo de servidores utilizando Node.js y otras tecnologías, creando APIs robustas y escalables para aplicaciones web.
-- **Bases de Datos:** Tengo experiencia en el diseño y la implementación de bases de datos relacionales y no relacionales, incluyendo MySQL, MongoDB, y Firebase.
-- **Control de Versiones:** Soy competente en el uso de sistemas de control de versiones como Git, lo que me permite colaborar de manera efectiva en proyectos de equipo.
+###
 
-## Proyectos Destacados 🌟
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-Aquí hay algunos de mis proyectos destacados:
+###
 
-1. [Proyecto 1](https://github.com/SantiagooMolina/estaco): Inventario con python y bases de datos en mongoDB para tiendas que requieran un inventario y un cambio constante o diario en los precos de sus productos.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagooMolina&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
-
-## Contacto 📫
-
-¡Me encantaría conectar contigo! Puedes contactarme en 
-✉️ santiago.x4444@icloud.com
-📱+57 3175218826
-
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos. 😊
+###
